@@ -1,0 +1,2 @@
+# learning_ai
+THIS IS MY PYTHON PROGRAMMING AI 
